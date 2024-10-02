@@ -74,3 +74,8 @@ label {
     display: block;
     margin-top: 10px;
 }
+
+.rodape {
+    font-size: 12px;
+    color: #676a6d;
+}
